@@ -1,4 +1,4 @@
-package com.reddit.user.koppeh.flamingo;
+package net.mcft.copy.flamingo;
 
 import net.minecraft.init.Blocks;
 import net.minecraft.init.Items;
@@ -16,8 +16,8 @@ public class Flamingo {
 	@Instance("Flamingo")
 	public static Flamingo instance;
 
-	@SidedProxy(clientSide = "com.reddit.user.koppeh.flamingo.ClientProxy",
-		serverSide = "com.reddit.user.koppeh.flamingo.CommonProxy")
+	@SidedProxy(clientSide = "net.mcft.copy.flamingo.ClientProxy",
+		serverSide = "net.mcft.copy.flamingo.CommonProxy")
 	public static CommonProxy proxy;
 
 	public static BlockFlamingo flamingo;

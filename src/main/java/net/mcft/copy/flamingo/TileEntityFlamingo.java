@@ -1,4 +1,4 @@
-package com.reddit.user.koppeh.flamingo;
+package net.mcft.copy.flamingo;
 
 import net.minecraft.tileentity.TileEntity;
 import net.minecraft.util.ITickable;

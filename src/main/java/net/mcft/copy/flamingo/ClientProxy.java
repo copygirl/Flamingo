@@ -1,4 +1,4 @@
-package com.reddit.user.koppeh.flamingo;
+package net.mcft.copy.flamingo;
 
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;

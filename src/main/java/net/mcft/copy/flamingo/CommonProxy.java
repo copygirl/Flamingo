@@ -1,4 +1,4 @@
-package com.reddit.user.koppeh.flamingo;
+package net.mcft.copy.flamingo;
 
 public class CommonProxy {
 

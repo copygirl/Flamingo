@@ -1,4 +1,4 @@
-package com.reddit.user.koppeh.flamingo;
+package net.mcft.copy.flamingo;
 
 import net.minecraft.client.model.ModelBase;
 import net.minecraft.client.model.ModelRenderer;
